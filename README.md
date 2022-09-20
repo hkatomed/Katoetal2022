@@ -1,6 +1,6 @@
 # Katoetal2022
 
-This study can be reproduced with the files listed bellow. Note: Before running the code, public datasets must be stored according to the texts in the files and the directories must be adjusted appropriately for the environment.
+This study can be reproduced with the files listed bellow. Note: Before running the code, public datasets must be stored according to the texts in the files and the directories must be adjusted appropriately for the environment. Note: the Fortran code for HBA calculation from NuPoP (ver. 1.20.0) was adapted for this study. A newer version of NuPoP (ver. 2.4.0, https://doi.org/doi:10.18129/B9.bioc.NuPoP) is available for duration hidden Markov model–based predictions, which were not conducted in this study.
 01_prep_H3Q85C.sh
 02_prep_H3Q85C.R
 03_prep_matched_nuc.R
